@@ -4,15 +4,20 @@ A collection of various dot-files that can be used to boostrap a system
 
 ### Installing
 1. Clone this repository
-`git clone --recurse-submodules git@github.com:kvnallsn/dotfiles.git ~/.dotfiles`
+```
+git clone --recurse-submodules git@github.com:kvnallsn/dotfiles.git ~/.dotfiles
+```
 
 2. Run the install script
-`cd .dotfiles && ./install.sh`
+```
+cd .dotfiles && ./install.sh
+```
 
 ### Uninstalling
 1. Run the uninstall script
-`./uninstall.sh`
-
+```
+./uninstall.sh
+```
 
 ## Packages
 
