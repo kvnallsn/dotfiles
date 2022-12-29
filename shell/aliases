@@ -1,3 +1,7 @@
 alias ls='exa'
 alias vim='nvim'
 alias emacs='nvim'
+
+alias ll='ls -l'
+alias lla='ls -la'
+alias llah='ls -lah'
